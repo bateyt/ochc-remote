@@ -2,7 +2,7 @@
 title: "Remote Sensing and Geophysical Survey for Historic Cemeteries"
 subtitle: "A General Summary with Results from Luper Cemetery (Eugene, Oregon)"
 author: "Trey Batey"
-date: "`r Sys.Date()`"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
