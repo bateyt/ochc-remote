@@ -13,8 +13,6 @@ github-repo: bateyt/ochc-remote
 description: "A summary report on remote sensing/geophysical survey methods; prepared for the Oregon Commission on Historic Cemeteries"
 ---
 
-# Prerequisites
-
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
